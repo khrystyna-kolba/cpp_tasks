@@ -1,0 +1,2 @@
+D:\c++uni\module\Debug\module.exe
+D:\c++uni\tasksfrommodule1\module\Debug\module.exe
