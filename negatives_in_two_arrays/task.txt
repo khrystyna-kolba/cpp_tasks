@@ -1,0 +1,8 @@
+there are given two arrays:
+x of length n
+y of length m
+
+if there are more negative numbers in x than in y, transform x such as
+x[i] = x[i]**3, 
+in other case:
+y[i] = y[i]**3
