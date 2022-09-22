@@ -1,0 +1,18 @@
+﻿  Source.cpp
+D:\c++uni\нп 2 сем\template_func\Source.cpp(50,23): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\template_func\Source.cpp(51,24): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\template_func\Source.cpp(56,23): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\template_func\Source.cpp(57,24): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\template_func\Source.cpp(74,23): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\template_func\Source.cpp(75,24): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\template_func\Source.cpp(80,23): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\template_func\Source.cpp(81,24): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\template_func\Source.cpp(94,23): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\template_func\Source.cpp(95,24): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\template_func\Source.cpp(100,23): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\template_func\Source.cpp(101,24): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\template_func\Source.cpp(118,23): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\template_func\Source.cpp(119,24): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\template_func\Source.cpp(124,23): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\template_func\Source.cpp(125,24): warning C4018: '<': signed/unsigned mismatch
+  template_func.vcxproj -> D:\c++uni\нп 2 сем\template_func\Debug\template_func.exe
