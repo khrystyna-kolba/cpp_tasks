@@ -1,0 +1,14 @@
+﻿  Source.cpp
+D:\c++uni\нп 2 сем\яремі\Source.cpp(190,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\яремі\Source.cpp(196,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\яремі\Source.cpp(203,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\яремі\Source.cpp(206,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\яремі\Source.cpp(207,22): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\яремі\Source.cpp(213,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\яремі\Source.cpp(214,22): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\яремі\Source.cpp(222,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\яремі\Source.cpp(224,22): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\яремі\Source.cpp(250,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\яремі\Source.cpp(255,21): warning C4018: '<': signed/unsigned mismatch
+D:\c++uni\нп 2 сем\яремі\Source.cpp(262,21): warning C4018: '<': signed/unsigned mismatch
+  яремі.vcxproj -> D:\c++uni\нп 2 сем\яремі\Debug\яремі.exe

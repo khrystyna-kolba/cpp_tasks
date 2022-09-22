@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\c++uni\нп 2 сем\exeptions_complex_div\Source.cpp(12,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\c++uni\нп 2 сем\exeptions_complex_div\Source.cpp(13,29): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\c++uni\нп 2 сем\exeptions_complex_div\Source.cpp(31,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\c++uni\нп 2 сем\exeptions_complex_div\Source.cpp(32,30): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  exeptions_complex_div.vcxproj -> D:\c++uni\нп 2 сем\exeptions_complex_div\Debug\exeptions_complex_div.exe
