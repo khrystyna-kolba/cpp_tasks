@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "feeding", "feeding.vcxproj", "{52F85E03-5011-41C5-AD01-42A1020A0661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52F85E03-5011-41C5-AD01-42A1020A0661}.Debug|x64.ActiveCfg = Debug|x64
+		{52F85E03-5011-41C5-AD01-42A1020A0661}.Debug|x64.Build.0 = Debug|x64
+		{52F85E03-5011-41C5-AD01-42A1020A0661}.Debug|x86.ActiveCfg = Debug|Win32
+		{52F85E03-5011-41C5-AD01-42A1020A0661}.Debug|x86.Build.0 = Debug|Win32
+		{52F85E03-5011-41C5-AD01-42A1020A0661}.Release|x64.ActiveCfg = Release|x64
+		{52F85E03-5011-41C5-AD01-42A1020A0661}.Release|x64.Build.0 = Release|x64
+		{52F85E03-5011-41C5-AD01-42A1020A0661}.Release|x86.ActiveCfg = Release|Win32
+		{52F85E03-5011-41C5-AD01-42A1020A0661}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70A00DA3-829B-4203-ADF3-069664C64A7F}
+	EndGlobalSection
+EndGlobal

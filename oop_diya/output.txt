@@ -1,0 +1,10 @@
+Bohdan date: monday
+name: walk duration: 54
+name: friends duration: 72
+name: food duration: 34
+name: walk duration: 43
+name: food duration: 23
+
+
+Bohdan 425
+Khrystyna 55

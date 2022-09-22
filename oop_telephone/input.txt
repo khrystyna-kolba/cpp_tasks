@@ -1,0 +1,7 @@
+m iphone_13 Apple 1000 pink 256
+r ulefone Catterpilar 200 3000 1
+r superultra Radioplus 453.99 1000 0
+t domashniy Unknown 230
+m galaxy_a10s Samsung 132.4 red 32
+r radiophone Secret 245 10000 1
+m poco_x3 Xiaomi 349 blue 256

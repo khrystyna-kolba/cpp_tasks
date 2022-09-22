@@ -1,0 +1,31 @@
+name: Cat
+time: 15:45 product: apple
+time: 09:00 product: milk
+time: 12:00 product: meat
+
+
+name: Horse
+time: 15:00 product: hay
+time: 08:00 product: apple
+
+
+name: Dog
+time: 10:00 product: rabbit
+
+
+name: Chicken
+time: 08:45 product: grain
+time: 23:09 product: apple
+
+
+name: Parrot
+time: 14:00 product: grain
+
+
+products: 
+apple
+grain
+hay
+meat
+milk
+rabbit

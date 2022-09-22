@@ -1,0 +1,19 @@
+All phones sorted by price(from the low)
+name: galaxy_a10s brand: Samsung price: 132.4 dollars color: red storage: 32 gb
+name: ulefone brand: Catterpilar price: 200 dollars action radius: 3000 meters   auto respondent: yes
+name: domashniy brand: Unknown price: 230 dollars
+name: radiophone brand: Secret price: 245 dollars action radius: 10000 meters   auto respondent: yes
+name: poco_x3 brand: Xiaomi price: 349 dollars color: blue storage: 256 gb
+name: superultra brand: Radioplus price: 453.99 dollars action radius: 1000 meters   auto respondent: no
+name: iphone_13 brand: Apple price: 1000 dollars color: pink storage: 256 gb
+
+Total price: 2610.39 dollars
+
+Total count of all phones: 7
+count: Mobile Phone 3
+count: Phone 1
+count: Radio Phone 3
+
+Radio Phones with auto respondent
+name: ulefone brand: Catterpilar price: 200 dollars action radius: 3000 meters   auto respondent: yes
+name: radiophone brand: Secret price: 245 dollars action radius: 10000 meters   auto respondent: yes

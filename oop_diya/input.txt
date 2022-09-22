@@ -1,0 +1,73 @@
+Khrystyna
+
+monday
+2
+walk 54
+friends 72
+
+tuesday
+2
+study 54
+food 50
+
+wednesday
+2
+friends 32
+study 54
+
+tuesday
+3
+friends 67
+food 43
+walk 1
+
+friday
+1
+food 43
+
+saturday
+1
+friends 33.5
+
+sunday
+1
+food 43.5
+
+Bohdan
+
+monday
+5
+walk 54
+friends 72
+food 34
+walk 43
+food 23
+
+tuesday
+2
+study 54
+food 50
+
+wednesday
+2
+friends 32
+study 54
+
+tuesday
+3
+friends 67
+food 43
+walk 5
+
+friday
+1
+friends 43
+
+saturday
+2
+friends 33.5
+walk 323
+
+sunday
+1
+food 43.5
