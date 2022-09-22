@@ -1,0 +1,3 @@
+diesel 3.6
+gasoline 4.7
+total time: 113
