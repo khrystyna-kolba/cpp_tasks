@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\c++uni\ekz_2_sem\eks1\Source.cpp(13,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\c++uni\ekz_2_sem\eks1\Source.cpp(35): message : see reference to function template instantiation 'std::vector<double,std::allocator<double>> func<double>(std::vector<double,std::allocator<double>>,size_t)' being compiled
+D:\c++uni\ekz_2_sem\eks1\Source.cpp(12,5): warning C4834: discarding return value of function with 'nodiscard' attribute
+  eks1.vcxproj -> D:\c++uni\ekz_2_sem\eks1\Debug\eks1.exe
