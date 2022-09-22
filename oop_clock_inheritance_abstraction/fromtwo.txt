@@ -1,0 +1,26 @@
+5
+model: c5-re
+brand: rolex
+duration of work: 34
+garanty: 2
+
+model: fg6-7
+brand: figaro
+duration of work: 78
+garanty: 10
+
+model: 54-55-or
+brand: gshock
+duration of work: 54
+garanty: 11
+
+model: s102
+brand: rolex
+battery: litium
+screen: lcd
+
+model: 5692r
+brand: samsung
+battery: disposable
+screen: lamp
+
