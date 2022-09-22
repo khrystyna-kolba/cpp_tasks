@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\c++uni\ex2medic\Source.cpp(43,23): warning C4018: '<': signed/unsigned mismatch
+  ex2medic.vcxproj -> D:\c++uni\ex2medic\Debug\ex2medic.exe
